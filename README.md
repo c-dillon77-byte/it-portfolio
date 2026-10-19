@@ -4,7 +4,7 @@
 
 **Cybersecurity student looking for entry-level roles in IT support, networking and security · Raleigh, NC**
 
-I'm working toward my bachelor's in Computer and Information Science (cybersecurity concentration). I learn
+I'm working toward a B.S. in Cybersecurity at ECPI University (Raleigh, NC), expected February 2027. I learn
 by building: an enterprise-style Windows home lab, AWS infrastructure written as code, and Python tools
 that solve everyday business problems. This page links everything in one place.
 
@@ -38,17 +38,21 @@ that solve everyday business problems. This page links everything in one place.
 
 ## 🎓 Education & certifications
 
-<!-- TODO (Chip): confirm the exact degree title. -->
-- **B.S. Computer and Information Science, Cybersecurity concentration**, ECPI University. *(In progress; expected graduation: `[[TODO: Month YYYY]]`)*
-- Certifications: `[[TODO: list only certifications you hold or are actively studying for, with dates, e.g. "CompTIA A+ (in progress)"]]`
+**Education**
+- **B.S. in Cybersecurity**, ECPI University (Raleigh, NC), expected February 2027
+- **A.S. in Cybersecurity**, ECPI University (Raleigh, NC), anticipated June 2025 (as listed on my resume)
+
+**Certifications**
+- CompTIA Security+ (in progress)
+- EC-Council CEH v13 (in progress)
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: `[[TODO: LinkedIn URL]]`
-- Email: `[[TODO: professional email address]]`
-- Resume: `[[TODO: link to resume PDF]]`
+- LinkedIn: [linkedin.com/in/charlesdillon](https://www.linkedin.com/in/charlesdillon)
+- Email: [charlesdillon77@gmail.com](mailto:charlesdillon77@gmail.com)
+- Resume: [Charles_Dillon_Resume.pdf](resume/Charles_Dillon_Resume.pdf)
 
 ---
 
