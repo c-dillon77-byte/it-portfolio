@@ -40,7 +40,7 @@ that solve everyday business problems. This page links everything in one place.
 
 **Education**
 - **B.S. in Cybersecurity**, ECPI University (Raleigh, NC), expected February 2027
-- **A.S. in Cybersecurity**, ECPI University (Raleigh, NC), anticipated June 2025 (as listed on my resume)
+- **A.S. in Cybersecurity**, ECPI University (Raleigh, NC), completed April 2025
 
 **Certifications**
 - CompTIA Security+ (in progress)
