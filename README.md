@@ -16,8 +16,8 @@ that solve everyday business problems. This page links everything in one place.
 
 | Project | What it shows | Status |
 |---|---|---|
-| [networking-labs](https://github.com/c-dillon77-byte/networking-labs) | Python networking tools: subnetting, host/port checks, Cisco config backup, show-command parsing | 🟡 Planned |
-| [cybersecurity-project](https://github.com/c-dillon77-byte/cybersecurity-project) | Defensive security tools: auth log analysis, password policy auditing, nmap report generation | 🟡 Planned |
+| [networking-labs](https://github.com/c-dillon77-byte/networking-labs) | Python networking tools: subnet calculator, ping/port sweep, Cisco config backup (netmiko), show-command parser, each with tests and CI | ✅ Complete (4 of 4 tools) |
+| [cybersecurity-project](https://github.com/c-dillon77-byte/cybersecurity-project) | Defensive security tools: auth log analyzer (done), password policy auditor (in review), nmap report generator (planned) | 🟢 In progress (1 of 3 tools complete) |
 | [HomeLab](https://github.com/c-dillon77-byte/HomeLab) | Enterprise-style lab: Hyper-V, two Windows Server domain controllers, AD, DNS, DHCP failover, Group Policy, file shares, OPNsense firewall | 🟢 In progress |
 | [my_restaurant.ai](https://github.com/c-dillon77-byte/my_restaurant.ai) | Python sales forecasting (pandas, optional PyTorch) with tests and CI, built around real restaurant operations needs | 🟢 In progress |
 | [My_Python](https://github.com/c-dillon77-byte/My_Python) | Python command-line tools: cash register/receipt printer, food cost (COGS) calculator, scientific calculator | 🟢 In progress |
