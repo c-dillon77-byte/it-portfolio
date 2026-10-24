@@ -8,7 +8,7 @@ I'm working toward a B.S. in Cybersecurity at ECPI University (Raleigh, NC), exp
 by building: an enterprise-style Windows home lab, AWS infrastructure written as code, and Python tools
 that solve everyday business problems. This page links everything in one place.
 
-<!-- TODO (Chip): optional 1–2 sentences about what kind of role/team you want and your availability. -->
+<!-- TODO: optional 1–2 sentences about what kind of role/team I want and my availability. -->
 
 ---
 
@@ -32,6 +32,7 @@ Each tool has its own README, sample data and tests, and runs in CI.
 | [ping-port-sweep](https://github.com/c-dillon77-byte/networking-labs/tree/main/ping-port-sweep) | Host discovery and TCP connect port scanning for lab subnets, with timeouts, concurrency and safety limits | ✅ Complete |
 | [config-backup](https://github.com/c-dillon77-byte/networking-labs/tree/main/config-backup) | Cisco running-config backups over SSH (netmiko), with timestamped files and diffs against the previous backup | ✅ Complete |
 | [show-parser](https://github.com/c-dillon77-byte/networking-labs/tree/main/show-parser) | Parses Cisco IOS `show` output (interfaces, VLANs, routes, CDP/LLDP, MAC table) into tables, JSON or CSV | ✅ Complete |
+| [excel-subnet-calculator](https://github.com/c-dillon77-byte/networking-labs/tree/main/excel-subnet-calculator) | Formula-only Excel IPv4 subnet calculator I designed myself: IP to 32-bit integer math for network/broadcast, host range, mask and wildcard | ✅ Complete |
 | [log-analyzer](https://github.com/c-dillon77-byte/cybersecurity-project/tree/main/log-analyzer) | Linux SSH/sudo auth log analysis: brute force, password spraying and new-IP logins, with MITRE ATT&CK IDs | ✅ Complete |
 | [password-auditor](https://github.com/c-dillon77-byte/cybersecurity-project/tree/main/password-auditor) | Password policy audit: common-password list, optional HIBP k-anonymity check, masked reports | ✅ Complete |
 | [vuln-scan-report](https://github.com/c-dillon77-byte/cybersecurity-project/tree/main/vuln-scan-report) | Turns nmap XML into HTML/Markdown/JSON/CSV risk reports with editable rules and scan-to-scan diffs | ✅ Complete |
