@@ -8,7 +8,7 @@ I'm working toward a B.S. in Cybersecurity at ECPI University (Raleigh, NC), exp
 by building: an enterprise-style Windows home lab, AWS infrastructure written as code, and Python tools
 that solve everyday business problems. This page links everything in one place.
 
-<!-- TODO (Chip): optional 1–2 sentences about what kind of role/team you want and your availability. -->
+<!-- TODO: optional 1–2 sentences about what kind of role/team I want and my availability. -->
 
 ---
 
